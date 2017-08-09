@@ -1,5 +1,8 @@
 package com.travix.medusa.busyflights.domain.busyflights;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class BusyFlightsRequest {
 
     private String origin;

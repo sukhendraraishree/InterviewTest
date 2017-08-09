@@ -1,5 +1,8 @@
 package com.travix.medusa.busyflights.domain.crazyair;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class CrazyAirResponse {
 
     private String airline;

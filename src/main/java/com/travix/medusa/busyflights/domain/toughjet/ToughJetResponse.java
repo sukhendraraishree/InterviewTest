@@ -1,5 +1,8 @@
 package com.travix.medusa.busyflights.domain.toughjet;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class ToughJetResponse {
 
     private String carrier;
